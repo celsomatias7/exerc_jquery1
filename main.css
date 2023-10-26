@@ -61,6 +61,10 @@ ul {
     color: #000;
 }
 
-li:active{
+ul li:hover{
     text-decoration: line-through;
+}
+
+li {
+    padding: 8px;
 }
