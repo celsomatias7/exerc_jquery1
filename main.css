@@ -61,7 +61,7 @@ ul {
     color: #000;
 }
 
-ul li:hover{
+.riscarTarefa {
     text-decoration: line-through;
 }
 
